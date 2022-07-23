@@ -27,8 +27,8 @@ function dividir(_dividendo, _divisor){
 let dividendo = ingresarNum("Ingrese el número a dividir, por favor");
 dividendo = validarNum(dividendo, "Ingrese el número a dividir nuevamente, por favor");
 
-let divisor = ingresarNum("Ingrese el número por el que se dividira, por favor");
-divisor = validarNum(divisor, "Ingrese el número por el que se dividira nuevamente, por favor");
+let divisor = ingresarNum("Ingrese el número por el que se dividirá, por favor");
+divisor = validarNum(divisor, "Ingrese el número por el que se dividirá nuevamente, por favor");
 
 if (divisor === 0) {
 
