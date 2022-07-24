@@ -19,12 +19,10 @@ function mostrarMensaje(_mensaje) {
 }
 
 function calcularPerimetro(_radio, _PI) {
-
     return (PI * _radio * 2);
 }
  
 function calcularArea(_radio, _PI) {
-
     return (PI * _radio * _radio);
 }
 
