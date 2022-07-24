@@ -20,12 +20,10 @@ function mostrarMensaje(_mensaje) {
 }
 
 function calcularPerimetro(_base, _altura){
-
     return ((_base * 2) + (_altura * 2));
 }
 
 function calcularArea(_base, _altura){
-
     return (_base * _altura);
 }
 
