@@ -1,4 +1,5 @@
 # DiagramacionLogica-JS
 
-![Ejercicios011](https://user-images.githubusercontent.com/83089714/180627464-63499ddb-a29e-4a88-a0d6-b512608f0abe.jpg)
-![Ejercicios012](https://user-images.githubusercontent.com/83089714/180627442-c97c465f-5805-4256-9097-69787987eb21.jpg)
+![Ejercicios011](https://user-images.githubusercontent.com/83089714/180627506-8fa374ca-7639-4e66-ae25-824452d48bf0.jpg)
+![Ejercicios012](https://user-images.githubusercontent.com/83089714/180627507-5569edaa-e882-419f-9643-6ee27291b65b.jpg)
+
