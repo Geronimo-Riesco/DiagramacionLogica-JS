@@ -20,7 +20,6 @@ function mostrarMensaje(_mensaje) {
 }
 
 function dividir(_dividendo, _divisor){
-
     return (_dividendo / _divisor);
 }
 
