@@ -8,7 +8,7 @@ function ingresarCadena(_mensaje){
 }
 
 function validarCadena(_cadena, _mensaje) {
-    let expRegNombre = /^[a-zA-ZÀ-ÿ\u00f1\u00d1]+(\s*[a-zA-ZÀ-ÿ\u00f1\u00d1]*)*[a-zA-ZÀ-ÿ\u00f1\u00d1]+$/g;
+    let expRegNombre = /^[a-zA-ZÀ-ÿ\u00f1\u00d1 ]+(\s*[a-zA-ZÀ-ÿ\u00f1\u00d1]*)*[a-zA-ZÀ-ÿ\u00f1\u00d1]+$/g;
 
     while (expRegNombre.test(_cadena) === false) {
         mostrarMensaje("Error! No se permiten números y espacios");
